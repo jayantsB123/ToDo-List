@@ -1,7 +1,3 @@
-Certainly! Below is an example README file for a ToDo list project created using React for the frontend, Node.js for the backend, and Firebase for the database.
-
----
-
 # ToDo List App
 
 This is a ToDo list application built using React for the frontend, Node.js for the backend, and Firebase for the database. The app allows users to create, update, and delete tasks in a simple and intuitive interface.
