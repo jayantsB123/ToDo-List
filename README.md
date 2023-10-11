@@ -1,6 +1,9 @@
 # ToDo List App
 
 This is a ToDo list application built using React for the frontend, Node.js for the backend, and Firebase for the database. The app allows users to create, update, and delete tasks in a simple and intuitive interface.
+![Screenshot 2023-10-12 024919](https://github.com/jayantsB123/ToDo-List/assets/97082996/578f24da-cdc4-44aa-b2c3-4d1bde53efc0)
+![Screenshot 2023-10-12 024931](https://github.com/jayantsB123/ToDo-List/assets/97082996/66708c52-54c5-4040-a563-697955a0753d)
+![Screenshot 2023-10-12 024952](https://github.com/jayantsB123/ToDo-List/assets/97082996/4882aaf6-d1b7-4a6d-a44e-09817f804a6b)
 
 ## Features
 
